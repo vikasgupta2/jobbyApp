@@ -1,0 +1,21 @@
+.search-bar {
+  display: flex;
+}
+.main-container-job {
+  height: 90vh;
+  display: flex;
+  padding: 20px;
+}
+.first-column {
+  height: 90vh;
+  width: 30vw;
+}
+.second-column {
+  height: 90vh;
+  width: 70vw;
+}
+.profile-contain {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 25vh;
+}

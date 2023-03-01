@@ -1,0 +1,41 @@
+.first-card {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+.first-inner-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.second-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px;
+  margin: 0px;
+}
+.second-inner-card {
+  display: flex;
+  justify-content: space-between;
+  /* width: 8vw; */
+}
+
+.line {
+  border-width: 2px;
+  color: black;
+  width: 2px;
+}
+.img-job {
+  height: 70px;
+  width: 70px;
+}
+.life-at {
+  display: flex;
+}
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main-conti {
+  padding: 50px;
+}
