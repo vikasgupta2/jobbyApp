@@ -299,7 +299,7 @@ class Job extends Component {
 
   render() {
     return (
-      <div data-testid="loader">
+      <div>
         <Header />
         <div className="main-container-job">
           {this.renderAllProductsF()}

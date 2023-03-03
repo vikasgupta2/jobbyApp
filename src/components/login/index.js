@@ -59,7 +59,6 @@ class Login extends Component {
             placeholder="Username"
             id="username"
           />
-          <p>use "rahul" as username</p>
           <br />
           <label htmlFor="password">PASSWORD</label>
           <br />
@@ -70,7 +69,7 @@ class Login extends Component {
             id="password"
           />
           <br />
-          <p>use "rahul@2021" as password</p>
+
           <button type="submit">Login</button>
           <p id="error-msg" />
         </form>

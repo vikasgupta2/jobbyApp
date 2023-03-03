@@ -162,9 +162,9 @@ class JobDetail extends Component {
     } = jobDetails
     const {description, desImageUrl} = lifeAtCompany
     return (
-      <div data-testid="loader">
+      <div>
         <Header />
-        <div className="main-conti" data-testid="loader">
+        <div className="main-conti">
           <div>
             <div className="first-card">
               <img
