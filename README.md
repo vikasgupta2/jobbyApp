@@ -9,6 +9,9 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 </div>
 <br/>
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
+<br/>
 **Failure View** <br/>
 
 <div style="text-align: center;">
@@ -424,9 +427,3 @@ Returns a response containing the job details
 - Roboto
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
